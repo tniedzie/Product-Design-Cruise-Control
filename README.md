@@ -1,0 +1,3 @@
+# Product-Design-Cruise-Control
+This was an in class project where a small team made a document for cruise control 
+This was an in class project where a team of four students were given the challenge of creating a cruise control mechanism for a car. At the start of the process, we had to identify scope, restraints, purpose, user stories, and responsibility of user. From there we created functional requirements and tests for them. The functional requirements helped develop our UML Use cases and diagrams. The diagrams were use case diagram, UML activity diagram, UML sequence diagram, and a UML state diagram. These diagrams helped framed our architectural style and design which were converted into code. Testing was conducted and the product was finalized. 
